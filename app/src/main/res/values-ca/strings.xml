@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RellotgeDigital</string>
+    <string name="hello_world">Rellotge Digital!</string>
+    <string name="action_sel12h">Modo 12h</string>
+    <string name="action_sel24h">Modo 24h</string>
+    <string name="no_time" translatable="false">--:--:--</string>
+    <string name="no_date" translatable="false">--/--/----</string>
+    <string name="the_time_is">El temps es</string>
+
+    <string name="action_showDay">El dia es</string>
+    <string name="action_hideDay">Hide day</string>
+</resources>
